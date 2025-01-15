@@ -1,0 +1,1 @@
+# gittom-redirect-after-payment
